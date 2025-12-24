@@ -10,7 +10,7 @@ export default defineConfig({
       { text: 'Home', link: '/' },  
       { text: 'About', link: '/about'}, 
       { text: 'Work', link: '/work' },
-      { text: 'Examples', link: '/markdown-examples' }, 
+    //{ text: 'Examples', link: '/markdown-examples' }, 
       { text: 'Contact', link: '/contact' }
     ],
 
@@ -25,7 +25,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }, 
+      { icon: 'github', link: 'https://github.com/cj87holler' }, 
       { icon: 'linkedin', link: 'https://www.linkedin.com/in/cj-holler/' }
     ]
   }
