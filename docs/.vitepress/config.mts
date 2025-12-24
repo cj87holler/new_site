@@ -7,8 +7,11 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Home', link: '/' },  
+      { text: 'About', link: '/about'}, 
+      { text: 'Work', link: '/work' },
+      { text: 'Examples', link: '/markdown-examples' }, 
+      { text: 'Contact', link: '/contact' }
     ],
 
     sidebar: [
@@ -22,7 +25,8 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }, 
+      { icon: 'linkedin', link: 'https://www.linkedin.com/in/cj-holler/' }
     ]
   }
 })
