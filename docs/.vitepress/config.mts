@@ -26,7 +26,6 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/cj87holler' }, 
-      { icon: 'linkedin', link: 'https://www.linkedin.com/in/cj-holler/' }
     ]
   }
 })
