@@ -12,7 +12,7 @@ const members = [
   {
     avatar: 'https://avatars.githubusercontent.com/u/17093384?s=96&v=4',
     name: 'Evan You',
-    title: 'Creator',
+    title: 'Sr. Technical Product Manager',
     links: [
       { icon: 'github', link: 'https://github.com/yyx990803' },
       { icon: 'twitter', link: 'https://twitter.com/youyuxi' }
