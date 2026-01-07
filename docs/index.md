@@ -6,13 +6,13 @@ hero:
   name: "C.J. Holler"
   text: "Digital Product Leader"
   tagline: I help teams build intuitive digital experiences using data-driven design and pragmatic delivery.
-  actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+# actions:
+   # - theme: brand
+    #  text: Markdown Examples
+    #  link: /markdown-examples
+   # - theme: alt
+   #   text: API Examples
+   #   link: /api-examples
 
 features:
   - icon: 📝 

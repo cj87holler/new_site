@@ -4,25 +4,21 @@ Below is a high-level summary of my work experience to date.
 
 <div class="tip custom-block" style="padding-top: 8px">
 
-Please use this link for a full resume of my work: [PDF Resume](./getting-started).
+Please use this link for a full résumé of my work: [PDF Résumé](./getting-started).
 
 </div>
 
-## Use Cases
+## NorthMark Compute & Cloud
 
-- **Documentation**
+  At NorthMark Compute & Cloud, I am currently leading Product Strategy for our NextGen High-Performance Computing platform. This includes the end-to-end journey of HPC users accessing and using [one of the largest private GPU clusters in the world](https://northmarkstrategies.com/whats-new/announcement/). 
 
-  Lorum Ipsum Sum 
+  I also am the lead PM for two additional products, 
+  - a custom full-stack global portfolio analytics tool managing $1B+ in assets.
+  - a stealth product specializing in video ingestion for digital twin and scientific machine learning for performance recommendations in olympic sporting. 
 
-  The [Partner with Atlassian Williams Racing](https://nmc2.com/atlassian-williams-racing-chosen-by-nmc2-as-official-launch-partner/) blah blah
+## Walmart 
 
-- **Blogs, Portfolios, and Marketing Sites**
-
-  More stuff about how awesome I am 
-
-## Developer Experience
-
-VitePress aims to provide a great Developer Experience (DX) when working with Markdown content.
+During my tenure at Walmart, I was on the Last Mile Delivery team responsible for [household expansion](https://www.fastcompany.com/91249519/walmart-is-turning-to-data-science-to-improve-its-delivery-game), [drone delivery](https://www.forbes.com/sites/markfaithfull/2024/05/13/walmart-drone-dream-has-been-cleared-for-take-off-in-dallas/?), and the launch of their [white label delivery service](https://www.walmartgolocal.com/content/go-local/go-local-home.html). 
 
 - **[Vite-Powered:](https://vitejs.dev/)** instant server start, with edits always instantly reflected (<100ms) without page reload.
 
