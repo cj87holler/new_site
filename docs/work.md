@@ -1,3 +1,7 @@
+---
+sidebar: false
+outline: false
+---
 # Work
 
 Below is a high-level summary of my work experience to date.
