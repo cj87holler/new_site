@@ -34,3 +34,7 @@ Club Automation was my first job in Product Management. After completing a codin
 ## Science Teacher  
 
 After completing my undergraduate degree, I spent three years in education teaching life sciences at middle school and high school levels. 
+
+## Education 
+
+I hold a Bachelor of Science in Biology from Wheaton College (IL) and an Masters of Business Administration with a concentration in Global Trade and Supply Chain from Baylor University (TX).
