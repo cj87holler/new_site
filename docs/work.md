@@ -37,4 +37,4 @@ After completing my undergraduate degree, I spent three years in education teach
 
 ## Education 
 
-I hold a Bachelor of Science in Biology from Wheaton College (IL) and an Masters of Business Administration with a concentration in Global Trade and Supply Chain from Baylor University (TX).
+I hold a Bachelor of Science in Biology from Wheaton College (IL) and a Masters of Business Administration with a concentration in Global Trade and Supply Chain from Baylor University (TX).
