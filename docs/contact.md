@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: page 
+sidebar: false
 ---
 <script setup>
 import {
@@ -21,11 +22,10 @@ const members = [
   },
 ]
 </script>
-
 <VPTeamPage>
   <VPTeamPageTitle>
     <template #title>
-      About Me
+      Let's Connect
     </template>
     <template #lead>
       I am a Digital Product Manager based in Dallas, Texas. If you are in the DFW area, I'm always up for a coffee chat to talk Product & Tech. If you are elsewhere, drop me a note through one of the channels below and we will find another way to connect!
