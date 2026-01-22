@@ -25,4 +25,3 @@ features:
     title: Resilient
     details: A curious, growth-minded professional who <b>thrives</b> in ambiguity.
 ---
-

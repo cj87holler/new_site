@@ -13,7 +13,10 @@ export default defineConfig({
       { text: 'Blog', link: '/blog' }, 
     //{ text: 'Examples', link: '/markdown-examples' }, 
       { text: 'Contact', link: '/contact' }
-    ],
+    ], 
+    search: {
+      provider: 'local'
+    },  
 
     sidebar: [
       {
