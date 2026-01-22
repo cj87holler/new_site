@@ -1,5 +1,6 @@
 --- 
-title: My new Article 
+title: My new Article  
+sidebar: false
 ---
 
 # My New Article 
