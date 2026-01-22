@@ -7,7 +7,7 @@ Below is a high-level summary of my work experience to date.
 
 <div class="tip custom-block" style="padding-top: 8px">
 
-Please use this link for a full résumé of my work: [PDF Résumé](./getting-started).
+Please use this link for a full résumé of my work: [PDF Résumé](https://holler-resume-link.s3.us-east-2.amazonaws.com/resume.pdf).
 
 </div>
 
