@@ -1,7 +1,6 @@
 --- 
 title: My new Article  
 sidebar: false
-docFooter: true
 ---
 
 # My New Article 
