@@ -26,10 +26,14 @@ export default defineConfig({
           { text: 'Runtime API Examples', link: '/api-examples' }
         ]
       }
-    ],
+    ], 
+    docFooter: {
+      prev: false, 
+      next: false
+    }
 
     //socialLinks: [
     //  { icon: 'github', link: 'https://github.com/cj87holler' }, 
-    //]
+    //] 
   }
 })

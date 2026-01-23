@@ -1,6 +1,7 @@
 --- 
 title: My new Article  
 sidebar: false
+docFooter: true
 ---
 
 # My New Article 
@@ -32,4 +33,6 @@ export default defineConfig({
 :::
 
 ## Another Sub Section
-Ea consequuntur veniam ut veniam laborum sit recusandae deserunt. Quo ipsa odit ut temporibus ipsam cum consequatur itaque et possimus tempore et quia cumque!
+Ea consequuntur veniam ut veniam laborum sit recusandae deserunt. Quo ipsa odit ut temporibus ipsam cum consequatur itaque et possimus tempore et quia cumque! 
+
+ 
