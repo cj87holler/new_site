@@ -37,4 +37,9 @@ After completing my undergraduate degree, I spent three years in education teach
 
 ## Education 
 
-I hold a Bachelor of Science in Biology from Wheaton College (IL) and a Masters of Business Administration with a concentration in Global Trade and Supply Chain from Baylor University (TX).
+I hold a Bachelor of Science in Biology from Wheaton College (IL) and a Masters of Business Administration with a concentration in Global Trade and Supply Chain from Baylor University (TX). 
+
+## Awards & Distinctions 
+- Making a Difference Award, Walmart, June 2023.
+- Certifications: Certified Scrum Master, AWS Solutions Architect Associate
+- Technical Proficiency: Development (HTML, CSS, React), UI/UX (Figma, Balsamic), Data Analysis (Excel, Tableau, Big Query), Project Management (MS 365, Jira, Confluence, Azure DevOps Server)
